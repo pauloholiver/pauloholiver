@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloholiver&layout=compact)](https://github.com/pauloholiver/github-readme-stats)
 
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/paulo-henrique-lopes-559587103/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55982445?s=400&u=1e94bdf6b0706d22124ccd7219ae201e24ffae1d&v=4" width="100px;" alt=""/>
  <br />
  
