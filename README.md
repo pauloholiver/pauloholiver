@@ -28,5 +28,5 @@ Made with ❤️ by Paulo H Lopes 👋🏽 Contact Me!
 📫- How to reach me:
 <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-lopes-559587103/)](https://www.linkedin.com/in/paulo-henrique-lopes-559587103/) 
-[![Gmail Badge](https://img.shields.io/badge/-Hotmail-1B98E0?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pauloholiveir4@gmail.com)](mailto:pauloholiveir4)
-[![Outlook Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Email&logoColor=white&link=mailto:pauloholiver@hotmail.com)](mailto:pauloholiver)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauloholiveir4@gmail.com)](mailto:pauloholiveir4)
+[![Outlook Badge](https://img.shields.io/badge/-Hotmail-1B98E0?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pauloholiver@hotmail.com)](mailto:pauloholiver)
