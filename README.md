@@ -1,17 +1,13 @@
-<h3 align="left">Hi there 👋</h3>
+# Hello World! 👋 I’m Paulo Henrique
+
+
+I'm a fullstack developer and a big enthusiast of Interface Design (UX/UI).
 
 💼- I’m currently working at:
 
 <a href="https://www.zipsoftware.com.br">
  <img style="border-radius: 50%;" src="https://static.wixstatic.com/media/5dd42f_a8bdbd1c770b402da7712a266b74ba44~mv2.png/v1/fill/w_350,h_153,al_c,q_85,usm_0.66_1.00_0.01/logo-2021-nova-sombra.webp" width="200px;" alt=""/>
  <br />
-
-# Hello World! 👋 I’m Paulo Henrique
-
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/raphaellbrito/)&nbsp;
-
-I'm a Front-End Web and Mobile Developer (React.js / React Native) and a big enthusiast of Interface Design (UX/UI).
 
 
 ## Skills:
@@ -21,7 +17,6 @@ I'm a Front-End Web and Mobile Developer (React.js / React Native) and a big ent
 ![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=figma&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-2D001F?style=flat&logoColor=adobe-xd&logo=adobe-xd)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2C2C46?style=flat&logoColor=adobe-photoshop&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-261300?style=flat&logoColor=adobe-illustrator&logo=adobe-illustrator)<br/>
 
 💻 📱 
 
@@ -36,11 +31,12 @@ I'm a Front-End Web and Mobile Developer (React.js / React Native) and a big ent
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloholiver&layout=compact)](https://github.com/pauloholiver/github-readme-stats)
 
-Made with ❤️ by Paulo H Lopes 👋🏽 Contact Me!
-
 
 📫- How to reach me:
 <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-lopes-559587103/)](https://www.linkedin.com/in/paulo-henrique-lopes-559587103/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauloholiveir4@gmail.com)](mailto:pauloholiveir4)
 [![Outlook Badge](https://img.shields.io/badge/-Hotmail-1B98E0?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pauloholiver@hotmail.com)](mailto:pauloholiver)
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/pauloholiver)&nbsp;
+
+Made with ❤️ by Paulo H Lopes 👋🏽 Contact Me!
