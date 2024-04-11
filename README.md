@@ -25,9 +25,7 @@ I'm a fullstack developer and a big enthusiast of Interface Design (UX/UI).
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 
-<br/>
-<br/>
-<br/>
+## Top Langs:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloholiver&layout=compact)](https://github.com/pauloholiver/github-readme-stats)
 
