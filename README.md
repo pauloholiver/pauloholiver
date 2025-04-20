@@ -21,7 +21,7 @@ I'm a fullstack developer and a big enthusiast of Interface Design (UX/UI).
 
 💻 📱 
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)]
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
