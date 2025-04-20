@@ -17,13 +17,19 @@ I'm a fullstack developer and a big enthusiast of Interface Design (UX/UI).
 ![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=figma&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-2D001F?style=flat&logoColor=adobe-xd&logo=adobe-xd)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2C2C46?style=flat&logoColor=adobe-photoshop&logo=adobe-photoshop)&nbsp;
+[![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 
 💻 📱 
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ## Top Langs:
 
