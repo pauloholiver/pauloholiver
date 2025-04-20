@@ -21,7 +21,7 @@ I'm a fullstack developer and a big enthusiast of Interface Design (UX/UI).
 
 💻 📱 
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)]
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
@@ -38,9 +38,8 @@ I'm a fullstack developer and a big enthusiast of Interface Design (UX/UI).
 
 📫- How to reach me:
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-lopes-559587103/)](https://www.linkedin.com/in/paulo-henrique-lopes-559587103/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-lopes-559587103/)](https://www.linkedin.com/in/paulo-henrique-phl/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauloholiveir4@gmail.com)](mailto:pauloholiveir4)
 [![Outlook Badge](https://img.shields.io/badge/-Hotmail-1B98E0?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pauloholiver@hotmail.com)](mailto:pauloholiver)
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/pauloholiver)&nbsp;
 
 Made with ❤️ by Paulo H Lopes 👋🏽 Contact Me!
